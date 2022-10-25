@@ -7,7 +7,7 @@ import fetchPhotos from './customFunction/fetchPhotos';
 import createSmallImgMarkup from './customFunction/funcrionRender';
 import cleanRender from './customFunction/functionCleanRender';
 // import './css/styles.css';
-import '../css/index.css';
+import '../css/index.min.css';
 const lightbox = new SimpleLightbox('.gallery__link');
 // -----------------
 
