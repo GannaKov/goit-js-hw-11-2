@@ -1,8 +1,6 @@
 .gallery {
   // display: flex;
 
-  margin-top: 55px;
-
   display: grid;
   max-width: 1500px;
   grid-template-columns: repeat(auto-fit, 278px);
@@ -14,17 +12,6 @@
   margin-right: auto;
 }
 .photo-card {
-  // outline: 1px solid green;
-  // width: 395px;
-
-  // @include tablet {
-  //   flex-basis: calc((100% - 40px) / 2);
-  // }
-  // @include desktop {
-  //   display: flex;
-  //   flex-direction: column;
-  //   flex-basis: calc((100% - 80px) / 5);
-
   img {
     object-fit: cover;
     /* height: 274px; */
