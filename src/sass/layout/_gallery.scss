@@ -38,12 +38,9 @@
 
 .info {
   display: flex;
-  column-gap: 24px;
+  column-gap: 10px;
   padding-top: 10px;
   padding-bottom: 10px;
-  @include tablet {
-    column-gap: 10px;
-  }
 }
 .info-item {
   font-size: 12px;
