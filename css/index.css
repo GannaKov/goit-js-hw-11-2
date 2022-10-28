@@ -73,7 +73,7 @@ img {
   background-color: rgb(255, 0, 106);
   top: 0px;
   position: fixed;
-  width: 100%;
+  width: 100vw;
   display: flex;
   justify-content: center;
   margin-bottom: 0px;
